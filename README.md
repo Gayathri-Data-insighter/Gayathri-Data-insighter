@@ -2,23 +2,23 @@
 <h3 align="center">A passionate Data Analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://www.cloudyml.com/wp-content/uploads/2022/06/Analytics_amp_Data_Science.gif ">
 
-- 🔭 I’m currently working on **Data analysis using python and sql**
+- 🔭 I’m currently working on **Data analysis using python and analytical tools**
 
-- 🌱 I’m currently learning **Python ,python libraries,sql,excel**
+- 🌱 I’m currently learning **Python ,python libraries such as numpy pandas matplotlib etc,.,sql,excel,powerBI,Statistics,Tableau**
 
 - 👯 I’m looking to collaborate on **Data Driven decision making**
 
-- 🤝 I’m looking for help with **Drwaing insights**
+- 🤝 I’m looking for help with **Drawing insights**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Gayathri-Data-insighter](https://github.com/Gayathri-Data-insighter)
 
 - 📝 I regularly write articles on [Jupyternote Book,Visual studio](Jupyternote Book,Visual studio)
 
-- 💬 Ask me about **Python,sql,Advanced excel,power BI**
+- 💬 Ask me about **Python,sql,Advanced excel,Tableau,power BI**
 
 - 📫 How to reach me **matetigayathri@gmail.com**
 
-- ⚡ Fun fact **Smart Questioner and critical thinking**
+- ⚡ Fun fact **Smart Questioner **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
